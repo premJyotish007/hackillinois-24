@@ -1,0 +1,11 @@
+.parent-card {
+    margin: 16px;
+    padding: 16px;
+    background-color: navy;
+  }
+  
+.child-card {
+margin: 8px;
+padding: 8px;
+background-color: #e0e0e0;
+}

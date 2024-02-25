@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+.left-window {
+  flex: 1;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+.right-window {
+  flex: 1;
+  background-color: #001540;
+  color: white;
+}
+
+.right-window-headers {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}

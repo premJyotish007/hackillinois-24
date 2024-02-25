@@ -1,0 +1,26 @@
+class Dog:
+
+    def sound(self, self):
+        pass
+
+
+class Cat:
+    pass
+
+
+class FlyingBird:
+    pass
+
+
+class Swimmer:
+
+    def swim(self, self):
+        pass
+
+
+class Parrot(FlyingBird):
+
+    def sound(self, self):
+        pass
+
+
